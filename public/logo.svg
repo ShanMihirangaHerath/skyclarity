@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="153" height="38" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="gradient">
+ <defs>
+  <linearGradient id="paint500_linear_1501_1259" x1="0.14" x2="0.89" y1="0.22" y2="0.22">
+   <stop class="ccustom" stop-color="#64C2DB"/>
+   <stop class="ccompli1" offset="0.31" stop-color="#7476ED"/>
+   <stop class="ccompli1" offset="0.6" stop-color="#C994DF"/>
+   <stop class="ccompli2" offset="1" stop-color="#E56F8C"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path class="cneutral" d="m0.88,28.18l0,-18.79l9.39,5.22l0,8.41l7.52,4.22l7.51,-4.22l0,-8.41l9.4,-5.22l0,18.79l-16.91,9.4l-16.91,-9.4z" fill="#192657" id="svg_1"/>
+  <path clip-rule="evenodd" d="m5.58,12l-4.7,-2.61l16.91,-9.39l16.91,9.39l-4.7,2.61l0,13.83l-12.21,7.05l-12.21,-7.05l0,-13.83zm23.91,0.29l-4.19,2.32l0,-0.05l-7.51,-4.23l-7.52,4.23l0,0.05l-4.19,-2.32l0,13.25l11.71,6.76l11.7,-6.76l0,-13.25z" fill="url(#paint500_linear_1501_1259)" fill-rule="evenodd" id="svg_2" transform="matrix(1 0 0 1 0 0)"/>
+  <text fill="#000000" font-family="Times" font-size="24" id="svg_12" stroke-width="0" text-anchor="middle" x="90.5" xml:space="preserve" y="26">SkyClarity</text>
+ </g>
+</svg>
